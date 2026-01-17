@@ -1,6 +1,7 @@
 # portfolio website
 
 a modern, interactive portfolio website built with smooth scroll animations and dynamic interactions using advanced web technologies.
+inspired by : https://cynthiaugwu.com
 
 ## overview
 
@@ -215,3 +216,4 @@ all movement uses css transforms for gpu acceleration:
 - optimize for mobile responsive layouts
 - add page transition animations
 - implement keyboard navigation support
+
